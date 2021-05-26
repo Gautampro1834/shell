@@ -6,9 +6,9 @@
       "bot",
       "shell"
     ],
-    "repository": "https://github.com/Gautampro1834/shell-bot",
-    "website": "https://github.com/Gautampro1834/shell-bot",
-    "success_url": "https://github.com/Gautampro1834/shell-bot/blob/master/README.md",
+    "repository": "https://github.com/Gautampro1834/shell",
+    "website": "https://github.com/Gautampro1834/shell",
+    "success_url": "https://github.com/Gautampro1834/shell/blob/master/README.md",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
